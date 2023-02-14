@@ -45,11 +45,6 @@ public class variables {
         // Cambiar el valor de una variable 
         edad=28;
         System.out.println("Ahora mi edad es: " + edad);
-
-        // Declaración de variables (final) - No se puede cambiar el valor
-        final float pi=3.1416f;
-        System.out.println("El valor de pi es: " + pi);
-        // pi=3.315f; // Esto no se puede hacer porque es una variable final y porque pi siempre es 3.1416
     }
 
 }
